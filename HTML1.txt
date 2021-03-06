@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>html coding</title>
+</head>
+<body>
+<div id="myHTMLfile">
+<h1>hello html</h1>
+</div>
+</body>
+</html>
+
